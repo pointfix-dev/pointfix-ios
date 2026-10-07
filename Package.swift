@@ -11,7 +11,7 @@ let package = Package(
         .binaryTarget(
             name: "PointfixKit",
             url: "https://download.pointfix.dev/ios/PointfixKit-0.2.0.xcframework.zip",
-            checksum: "9febfa318c6d5f0649f77d15e64ab52f836a5bfb7941394ac8fe7576562ea820"
+            checksum: "30f02f747e56b597bc4743f2609083d1efbc7d6255c81266704a18d5817e5f4e"
         )
     ]
 )
