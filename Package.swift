@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PointfixKit",
-            url: "https://download.pointfix.dev/ios/PointfixKit-1.0.0.xcframework.zip",
-            checksum: "0ee7115837983e6c3d0c88a6386637286f07eae912ff26d0f4bf0e45d4e8fe1d"
+            url: "https://download.pointfix.dev/ios/PointfixKit-0.2.0.xcframework.zip",
+            checksum: "9febfa318c6d5f0649f77d15e64ab52f836a5bfb7941394ac8fe7576562ea820"
         )
     ]
 )

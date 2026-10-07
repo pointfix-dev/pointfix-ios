@@ -12,7 +12,7 @@ In Xcode, choose **File → Add Package Dependencies…**, enter
 https://github.com/pointfix-dev/pointfix-ios
 ```
 
-and add `PointfixKit` from version `1.0.0`. Requires iOS 26.
+and add `PointfixKit` from version `0.2.0`. Requires iOS 26 and Xcode 27 or newer.
 
 ## Usage
 
